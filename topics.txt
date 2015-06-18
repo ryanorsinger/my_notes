@@ -1,0 +1,27 @@
+how-to and tutorial writeups/videos for
+
+
+- intro to keyboard commands
+
+- command line
+
+- how the internet works series
+    - IP addresses public/private
+    - requests
+    - responses
+    - push
+    - DNS
+
+- virtualization
+
+
+
+
+how to create snippets in Sublime Text
+how to create and use aliases
+
+how to get started with bootstrap
+    http://bootsnipp.com/
+    http://bootswatch.com
+    http://wrapbootstrap.com
+

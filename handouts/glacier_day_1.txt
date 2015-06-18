@@ -1,0 +1,24 @@
+Day 1 Agenda for Codeup    8 June 2015
+0. Housekeeping - make the `subl` command work for everybody
+1. Why? Why ask why?
+    - Codeup is here to transform the tech landscape and take a vital role in strengthening San Antonio's role as a tech hub.   I'm here because development and developing developers is the most fun I've ever had professionally. It's also the most impact that I have ever produced.
+2. Talk Goals
+    - Codeup's #1 goal is to turn you into a professional software developer.
+    - My #1 goal (in support of that) is to lead you to develop the habits that will draw you, automatically and almost magnetically, into being a better developer than you ever imagined possible.
+    - What is your #1 goal in being here?
+
+3. Visioning
+    - What does your success look, sound, and feel like?
+    - Does it look like coding in your pajamas? * it sounds nice to me, but it's actually depressing *
+    - Do you want to freelance and work for yourself?
+    - Do you want to work in a development company or a larger company with a development department?
+    - Are you not sure yet? Attend developer events, meet other developers and discover everything you can about the industry
+
+4. Smoke and Fire - ask yourself what you know about yourself.
+    - what do you already know about yourself that you need to watch out for?
+    - what feelings and thoughts do you need to be vigilant about?
+    - If you're stuck on something, how do you know when to take a break or walk away?
+5. Play the "Now We Know" game! then play the "I'm not too sure about it yet" game!
+    - Now we know provides the opportunity for
+    - "I'm not too sure about yet..." gives me the REAL script for the review of what they don't have 100% yet.
+6. Peer Code Reviews, break, and then lecture.
