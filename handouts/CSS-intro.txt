@@ -1,0 +1,27 @@
+#Friday Handout
+
+- Consider ids and classes as hooks or lassos that allow us to target
+
+CSS Best Practices
+    - Prefer classes instead of id attributes on HTML elements.
+        - IDs don't allow for reuse, they are unique like barcodes or serial numbers.
+    - Add multiple classes to HTML elements to increase specificity.
+    - Using the style attribute on individual HTML elements is only used for styling HTML emails.
+
+
+Selectors
+
+direct descendant
+direct child
+
+Activities:
+-
+
+
+
+# Box Model Handout
+
+
+Cooking Show Examples:
+
+header, nav, main, section, article, aside, footer,

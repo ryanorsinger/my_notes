@@ -1,0 +1,51 @@
+# Orsinger Agenda 2015-09-22
+
+## What are ya'lls expectations and/or biggest concerns?
+    document them
+
+## Expectations
+    What we expect you to know already
+        - Fake-out
+            - How the internet works
+            - How to work your Mac, Mac shortcuts
+            - Linux command line interface
+
+        - Real talk.
+            - Know yourself well enough to:
+                - Know when you need to take a break
+                - Know the difference between "I'm not getting it" vs. "I'm hungry"
+            - Know how to work a search engine.
+            - How to ask effective questions.
+                - Prompt for example ineffective question
+                - Prompt for example effective question
+
+    - Expect to work outside of class on your learning.
+    - Expect to study and continue learning things above and beyond the basic curriculum.
+
+    - If it's important to you, then you will do it.
+    - Do drills, flashcards, do whatever it takes.
+        - When you learn a new command, do it 20 times in a row to make sure it sticks!
+
+    Expect to:
+        - Learn a specific way to do things, then relearn it in a different way. Expect this. It will happen.
+        - Demo code, whether if its finished or not
+        - Be a peer leader to those around you.
+
+    - This is a special environment.
+        - This environment will only happen once.
+        - All of you are the cream of the crop.
+        - Attitude is contageous
+        - Safe to fail
+        - More mistakes mean more learning... If no mistakes, if no bugs, I'm worried about you.
+        - We will critique the code and still honor the person
+
+    - How to get the most out of this course:
+        - Be present. Be engaged.
+        - Get enough sleep.
+        - Ask lots of effective questions
+        - Pipe up whenever you are lost.
+        - Seek help and provide help to/from your fellow students
+
+    Play the "Now I know" game
+    Play the "I think I've got it but i'm not too sure about ..." game
+
